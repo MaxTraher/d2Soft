@@ -8,7 +8,7 @@
 
 <pre><b>Auto accept game</b> - Автоматически принимает найденную игру,<br>
 очень полезно когда вы нажали поиск игры и отошли по делам)</pre>
-<code><a href="https://github.com/MaxTraher/d2Soft/releases/download/d2Soft/d2Soft.v1.2.exe" download>Скачать</a> d2Soft последняя версия.</code>
+<code><a href="https://github.com/MaxTraher/d2Soft/releases/download/d2Soft/d2Soft.v1.3.exe" download>Скачать</a> d2Soft последняя версия.</code>
 <details>
   <summary>Скриншот окна программы</summary>
   <img src="https://d2soft.neocities.org/screen.png" alt="Картинка" width="300">
